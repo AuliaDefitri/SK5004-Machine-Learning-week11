@@ -1,0 +1,11 @@
+graph TD
+A[Previous Assignment: Portable NIR Device for Oil Quality Detection] --> B[Research Focus: Adulteration in Vegetable Oils]
+B --> C[Motivation: Health, Economic, and Regulatory Impacts]
+B --> D[Target Oils: Palm, Soybean, Lard, Coconut]
+A --> E[Analytical Method: Near-Infrared Spectroscopy (NIR)]
+E --> F[Advantages: Rapid, Non-Destructive, Portable]
+A --> G[ML Techniques for Classification]
+G --> H[Models: PCA, SVM, ANN]
+G --> I[Input: NIR Spectral Data]
+I --> J[Output: Oil Classification / Adulteration Detection]
+A --> K[Research Question: How can a portable NIR-based system supported by ML detect oil adulteration efficiently?]
