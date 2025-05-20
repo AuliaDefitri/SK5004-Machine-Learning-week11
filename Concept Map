@@ -1,0 +1,9 @@
+graph TD
+A[Problem: Oil Adulteration] --> B[NIR Spectroscopy Can Detect]
+B --> C[Produces Spectral Signatures]
+C --> D[Can be Analyzed with ML]
+D --> E[ML Classifies Based on Patterns]
+E --> F[Trained using PCA, SVM, ANN]
+F --> G[Model predicts Oil Authenticity]
+G --> H[Helps develop Portable Device]
+H --> I[Research Question: How can NIR + ML models identify adulteration in vegetable oils effectively?]
