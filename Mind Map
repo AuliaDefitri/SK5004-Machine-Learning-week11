@@ -1,0 +1,7 @@
+graph TD
+A[Core Idea: Detect Oil Adulteration] --> B[Why? - Health, Economy, Halal]
+A --> C[How? - Portable NIR]
+A --> D[What Oils? - Palm, Lard, Soybean]
+A --> E[Tools? - ML: PCA, SVM]
+A --> F[Data? - NIR Spectra, Training Set]
+A --> G[Output? - Purity Classification]
